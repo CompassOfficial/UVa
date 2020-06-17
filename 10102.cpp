@@ -1,4 +1,3 @@
-  /*  HARD WORK FOREVER PAYS  */
 #include<bits/stdc++.h>
 #define pb push_back
 #define mk make_pair
